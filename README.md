@@ -1,2 +1,4 @@
 # Portfolio
 Este Portfólio contém os trabalhos do técnico. 
+# Sobre mim 
+Meu nome é Fellipe Ailton Alves da Silva, tenho 16 anos, faço curso técnico em desenvolvedor de sistemas. sou uma pessoa que tenho algumas qualidades essenciais para se viver bem como o respeito e a humildade por isso eu acredito que as pessoas podem mudar o mundo cada um fazendo sua parte, tendo empatia com o próximo, ter respeito com os outros e etc… , sou uma pessoa muito paciente gosto de ouvir os outros desabafarem contar seus problemas e tentar ajudar ao máximo sem esperar nada em troca, mas sou uma pessoa muito fechada também não gosto de contar meus problemas para outras pessoas pelo fato de eu não querer que saibam meu ponto fraco,  eu me vejo daqui um tempo trabalhando e conquistando o que eu quero e ajudar minha família. Tenho um sonho de ser advogado desde quando era mais novo e espero continuar tento esse sonho e ter novas conquistas.
